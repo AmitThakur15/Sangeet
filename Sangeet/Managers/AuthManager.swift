@@ -13,7 +13,7 @@ final class AuthManager {
     private init() {}
     
     var isSignedIn: Bool {
-        return true
+        return false
     }
     
     private var accessToken:String? {
