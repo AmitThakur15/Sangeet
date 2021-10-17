@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		42903F5D271C2F0400DCBB05 /* AuthResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42903F5C271C2F0400DCBB05 /* AuthResponse.swift */; };
 		429227FB269860DB004FA555 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 429227FA269860DB004FA555 /* AppDelegate.swift */; };
 		429227FD269860DB004FA555 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 429227FC269860DB004FA555 /* SceneDelegate.swift */; };
 		429227FF269860DB004FA555 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 429227FE269860DB004FA555 /* HomeViewController.swift */; };
@@ -32,6 +33,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		42903F5C271C2F0400DCBB05 /* AuthResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthResponse.swift; sourceTree = "<group>"; };
 		429227F7269860DB004FA555 /* Sangeet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sangeet.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		429227FA269860DB004FA555 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		429227FC269860DB004FA555 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 				42B29DEB269996EB003EFCC0 /* AudioTrack.swift */,
 				42B29DED269996F9003EFCC0 /* Artist.swift */,
 				42B29DEF26999714003EFCC0 /* UserProfile.swift */,
+				42903F5C271C2F0400DCBB05 /* AuthResponse.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -252,6 +255,7 @@
 				42B29DEA269996DC003EFCC0 /* Playlist.swift in Sources */,
 				42B29DE42699966D003EFCC0 /* AuthManager.swift in Sources */,
 				42B29DE22699960E003EFCC0 /* SearchResultsViewController.swift in Sources */,
+				42903F5D271C2F0400DCBB05 /* AuthResponse.swift in Sources */,
 				42B29DDC269995C2003EFCC0 /* WelcomeViewController.swift in Sources */,
 				42B29DCE269994D0003EFCC0 /* TabBarViewController.swift in Sources */,
 				429227FF269860DB004FA555 /* HomeViewController.swift in Sources */,
